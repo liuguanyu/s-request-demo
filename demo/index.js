@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import App from './app.vue';
 
-import SRequest from '../src/s-request.vue';
+import SRequest from 's-request';
 
 Vue.use(SRequest)
 
