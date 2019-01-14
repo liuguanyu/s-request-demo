@@ -28,7 +28,7 @@
     "webpack-merge": "^4.1.0"
   },
   "dependencies": {
-    "s-request": "^1.0.3",
+    "s-request": "^1.0.5",
     "vue": "^2.5.17"
   }
 }
